@@ -1,0 +1,3 @@
+= Redmine Issue Lockdown Plugin
+
+Prevents closed issues from being edited or moved.  Removes the links from the action menu and guards the controller actions.
